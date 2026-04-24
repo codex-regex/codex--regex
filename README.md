@@ -128,4 +128,4 @@ Templates and frameworks for managing security projects — because someone has 
 
 </div>
 
-![snake gif](https://raw.githubusercontent.com/codex-regex/codex-regex/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/codex-regex/codex-regex/output/github-snake.svg" alt="snake animation" />
