@@ -127,4 +127,5 @@ Templates and frameworks for managing security projects — because someone has 
 ![Visitor Count](https://komarev.com/ghpvc/?username=codex-regex&color=00ff88&style=flat-square)
 
 </div>
+
 ![snake gif](https://raw.githubusercontent.com/codex-regex/codex-regex/output/github-snake-dark.svg)
