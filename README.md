@@ -119,7 +119,7 @@ Templates and frameworks for managing security projects — because someone has 
 </div>
 
 -----
-
+![snake gif](https://github.com/codex-regex/codex-regex/blob/output/github-snake-dark.svg)
 <div align="center">
 
 *“Security is not a product. It’s a process. And apparently, also a personality.”*
